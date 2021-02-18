@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Category KnockOut Module registration.
+ * @category  Category KnockOut
+ * @package   Cat_Ko
+ * @author    vashishtha
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
+    <module name="Cat_Ko" setup_version="0.0.1">
+    </module>
+</config>
