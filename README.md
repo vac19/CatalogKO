@@ -1,42 +1,33 @@
-# salecto/advertisment
+# Catalog/Ko
 
-In admin: Manages advertisments with banner Image, Title, Description, Active From & To, Display on Pages and status Options.
-
-In front: Addes a menu item at top navigation and displays the Image and Title underneath the menu navigation section depending upon backend options.
-
-Module Can be active/deactivete from configuration. 
+KnockOut.js practice module. Overrides Catalog Category Page.
+Description Will be updated..
 
 ## Composer install
 
-- `composer config repositories.reponame vcs https://github.com/vac19/advertisment`
-- `composer require salecto2/magento2-advertisment`
+- `composer config repositories.reponame vcs https://github.com/vac19/CatalogKO`
+- `composer require salecto1/magento2-catalog-ko`
 
 ## Composer uninstall
 
-- `composer remove salecto2/magento2-advertisment`
+- `composer remove salecto1/magento2-catalog-ko`
 
-## Preview
+## Preview will be added
 
-![config-option](/readme-images/config-option.png "Configuration Option")
-![admin-option](/readme-images/admin-option.png "Admin Option")
-![admin-grid](/readme-images/admin-grid.png "Admin Grid")
-![admin-form](/readme-images/admin-form.png "Admin Form")
-![edit-form](/readme-images/edit-form.png "Edit Form")
-![front-end](/readme-images/front-end.png "Display at Front End")
+![work-in-progress](/readme-images/UC.jpg "Module work in progress")
 
 ## Settings
-Desrcribe each settings from the backend, and what effect they have.
 
-- Option `STORES/Configuration/Salecto - Advertisment` - Enables or disable the module
-- Option `Content/Elements-Advertisment` - Admin grid to add or edit advertisment.
+- Option `will be updated ..` - Under Construction
 
 ## Known issues
 
-- **After add/edit advertisment no advertisment/changes appear on frontend**\
-  It is require to clear catch each time when advertisment added or edited ~ Locally.
+- **Issues will be here .. Hopfuly not**\
+  Woirk in Progress
 
 ## Developer informations
-
+- vashishtha chauhan / Salecto
+- 
 ### Install module
 1. Run `composer require salecto2/magento2-advertisment`
 1. Run `php bin/magento setup:upgrade`
