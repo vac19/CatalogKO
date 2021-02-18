@@ -27,7 +27,6 @@ Description Will be updated..
 
 ## Developer informations
 - vashishtha chauhan / Salecto
-- 
 ### Install module
 1. Run `composer require salecto2/magento2-advertisment`
 1. Run `php bin/magento setup:upgrade`
@@ -43,3 +42,4 @@ Description Will be updated..
 1. Run `php bin/magento c:c`
 
 ### Additional developer notes
+- No notes so far..
