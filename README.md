@@ -15,8 +15,8 @@ It adds a timer with new custom component, captures the time change even and app
 
 ## Preview will be added
 
-![work-in-progress](/readme-images/UC.jpg "Module work in progress")
 ![timer-in-categoryPage](/readme-images/Timer-at-categoryPage.png "timer-in-categoryPage")
+![work-in-progress](/readme-images/UC.jpg "Module work in progress")
 
 
 ## Settings
