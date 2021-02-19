@@ -2,7 +2,7 @@
 
 KnockOut.js practice module. 
 Appends a timer with color change every second at Category page
-It adds a timer with new custom component, captures the time change even and apply random color each second. Time interval per second.
+It adds a timer with new 'custom component', captures the time change event and apply random color each second. Time interval per second.
 
 ## Composer install
 
