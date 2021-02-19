@@ -1,7 +1,8 @@
 # Catalog/Ko
 
-KnockOut.js practice module. Overrides Catalog Category Page.
-Description Will be updated..
+KnockOut.js practice module. 
+Appends a timer with color change every second at Category page
+It adds a timer with new custom component, captures the time change even and apply random color each second. Time interval per second.
 
 ## Composer install
 
@@ -15,6 +16,8 @@ Description Will be updated..
 ## Preview will be added
 
 ![work-in-progress](/readme-images/UC.jpg "Module work in progress")
+![timer-in-categoryPage](/readme-images/Timer-at-categoryPage.png "timer-in-categoryPage")
+
 
 ## Settings
 
@@ -27,19 +30,19 @@ Description Will be updated..
 
 ## Developer informations
 - vashishtha chauhan / Salecto
+
 ### Install module
-1. Run `composer require salecto2/magento2-advertisment`
-1. Run `php bin/magento setup:upgrade`
-1. Run `php bin/magento setup:di:compile`
-1. Run `php bin/magento s:s:d da_DK en_US`
-1. Run `php bin/magento c:c`
+1. Run `composer require salecto1/magento2-catalog-ko`
+2. Run `php bin/magento setup:upgrade`
+3. Run `php bin/magento setup:di:compile`
+4. Run `php bin/magento s:s:d da_DK en_US`
+5. Run `php bin/magento c:c`
 
 ### Uninstall module
-1. Run `php bin/magento module:disable Salecto_Advertisment -c`
-1. Run `php bin/magento module:uninstall Salecto_MaintenanceMode -c`
-1. Run `php bin/magento setup:di:compile`
-1. Run `php bin/magento s:s:d da_DK en_US`
-1. Run `php bin/magento c:c`
+1. Run `composer remove salecto1/magento2-catalog-ko`
+2. Run `php bin/magento setup:di:compile`
+3. Run `php bin/magento s:s:d da_DK en_US`
+4. Run `php bin/magento c:c`
 
 ### Additional developer notes
 - No notes so far..
