@@ -16,7 +16,6 @@ It adds a timer with new custom component, captures the time change even and app
 ## Preview will be added
 
 ![timer-in-categoryPage](/readme-images/Timer-at-categoryPage.png "timer-in-categoryPage")
-![work-in-progress](/readme-images/UC.jpg "Module work in progress")
 
 
 ## Settings
@@ -45,4 +44,4 @@ It adds a timer with new custom component, captures the time change even and app
 4. Run `php bin/magento c:c`
 
 ### Additional developer notes
-- No notes so far..
+Reference URL `https://inviqa.com/blog/using-knockout-js-magento-2`
