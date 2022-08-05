@@ -1,6 +1,6 @@
 {
-  "name": "salecto1/magento2-catalog-ko",
-  "description": "Catalog KnockOut Js Example Module",
+  "name": "rohan/catelog-observer",
+  "description": "catelog-observer",
   "type": "magento2-module",
   "version": "1.0.0",
   "license": [
@@ -8,16 +8,14 @@
     "AFL-3.0"
   ],
   "require": {
-      "php": "~7.3.0||~7.4.0",
-      "magento/framework": "102.0.*|103.0.*",
-      "salecto2/magento2-admin-theme": "*"
+      "php": "~8.1.0"
   },
   "autoload": {
     "files": [
       "registration.php"
     ],
     "psr-4": {
-      "Catalog\\Ko\\": ""
+      "Rohan\\Observers\\": ""
     }
   }
 }
